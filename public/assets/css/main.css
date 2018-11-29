@@ -1,0 +1,29 @@
+/*@import url('//netdna.bootstrapcdn.com/bootstrap/2.3.2/css/bootstrap.min.css');*/
+.upload_container {
+    margin-top: 30px;
+    width: 330px;
+    display: none;
+}
+
+.bar{
+    background: #3490dc;
+}
+
+.progress {
+    height: 25px;
+}
+
+.show_files {
+    max-width: 100px;
+    max-height: 100px;
+    margin-top: 10px;
+}
+
+.show_files img {
+    width: 100%;
+    height: auto;
+}
+
+#fileupload {
+    display: none;
+}
